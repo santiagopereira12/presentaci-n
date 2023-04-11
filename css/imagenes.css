@@ -1,0 +1,20 @@
+section.imagenes{
+    display: flex;
+    width: 600px;
+    height: 430px;
+}
+
+section.imagenes img{
+    width: 0px;
+    flex-grow: 1;
+    object-fit: cover;
+    opacity: .8;
+    transition: .5s ease;
+}
+
+section.imagenes img:hover{
+    cursor: crosshair;
+    width: 400;
+    opacity: 1;
+    filter: contrast(120%);
+}
