@@ -1,38 +1,40 @@
 {
-  "squadName" : "Philosophers of Suspicion",
-  "made by" : "Santiago Pereira",
-  "year" : 2023,
-  "Corriente" : "philosophers",
+  "squadName" : "justice league",
+  "homeTown" : "Metropolis",
+  "formed" : 2020,
+  "secretBase" : "Super tower",
   "active" : true,
   "members" : [
     {
-      "name" : "Sigmund Freud",
-      "dead" : 1939,
-      "corriente" : "psicoanalisis",
-      "books" : [
-        "La interpretacion de los sueños",
-        "el yo y el ello",
-        "el malestar en la cultura"
+      "name" : "Batman",
+      "age" : 65,
+      "secretIdentity" : "Bruce wane",
+      "powers" : [
+        "Super car",
+        "Super house",
+        "Super money"
       ]
     },
     {
-      "name" : "Karl Marx",
-      "dead" : 1845,
-      "corriente" : "politica",
-      "books" : [
-        "complementacion politicas filosoficas de hegel",
-        "el capital",
-        "el manifiesto comunista"
+      "name" : "Wonder Woman",
+      "age" : 64,
+      "secretIdentity" : "Diana",
+      "powers" : [
+        "Super fuerza",
+        "Super salto",
+        "Super rica"
       ]
     },
     {
-      "name" : "Friedrich Nietzsche",
-      "dead" : 1889,
-      "corriente" : "Religion",
-      "books" : [
-        "el anticristo",
-        "así como habla zaratustra",
-        "la muerte de Dios"
+      "name" : "Superman",
+      "age" : 86,
+      "secretIdentity" : "Clark Kent",
+      "powers" : [
+        "volar",
+        "super fuerza",
+        "resistencia",
+        "rayos laser",
+        "volar"
       ]
     }
   ]
