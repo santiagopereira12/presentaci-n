@@ -1,0 +1,39 @@
+{
+  "squadName" : "Philosophers of Suspicion",
+  "made by" : "Santiago Pereira",
+  "year" : 2023,
+  "Corriente" : "philosophers",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Sigmund Freud",
+      "dead" : 1939,
+      "corriente" : "psicoanalisis",
+      "books" : [
+        "La interpretacion de los sueños",
+        "el yo y el ello",
+        "el malestar en la cultura"
+      ]
+    },
+    {
+      "name" : "Karl Marx",
+      "dead" : 1845,
+      "corriente" : "politica",
+      "books" : [
+        "complementacion politicas filosoficas de hegel",
+        "el capital",
+        "el manifiesto comunista"
+      ]
+    },
+    {
+      "name" : "Friedrich Nietzsche",
+      "dead" : 1889,
+      "corriente" : "Religion",
+      "books" : [
+        "el anticristo",
+        "así como habla zaratustra",
+        "la muerte de Dios"
+      ]
+    }
+  ]
+}
